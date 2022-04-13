@@ -1,0 +1,81 @@
+"Phrases"
+{
+    "Prohibition"
+    {
+        "ru"        "В этой зоне стрелять запрещено!"
+        "en"        "It`s forbidden to shoot in this zone!"
+    }
+
+    "No Prohibition"
+    {
+        "ru"        "Стрелять можно!"
+        "en"        "You can shoot!"
+    }
+
+    "Limit"
+    {
+        "ru"        "{RED}[NSZ] {DEFAULT}Лимит: 100"
+        "en"        "{RED}[NSZ] {DEFAULT}Limit: 100"
+    }
+
+    "Zone Created"
+    {
+        "ru"        "{RED}[NSZ] {DEFAULT}Зона создана!"
+        "en"        "{RED}[NSZ] {DEFAULT}The zone is created!"
+    }
+
+    "Error"
+    {
+        "ru"        "{RED}[NSZ] {DEFAULT}Ошибка!"
+        "en"        "{RED}[NSZ] {DEFAULT}Error!"
+    }
+
+    "Not Found 1"
+    {
+        "ru"        "{RED}[NSZ] {DEFAULT}Зона не найдена (1)!"
+        "en"        "{RED}[NSZ] {DEFAULT}Zone not found (1)!"
+    }
+
+    "Not Found 2"
+    {
+        "ru"        "{RED}[NSZ] {DEFAULT}Зона не найдена (2)!"
+        "en"        "{RED}[NSZ] {DEFAULT}Zone not found (2)!"
+    }
+
+    "Successful Del"
+    {
+        "ru"        "{RED}[NSZ] {DEFAULT}Зона успешно удалена!"
+        "en"        "{RED}[NSZ] {DEFAULT}The zone was successfully deleted!"
+    }
+
+    "Successful Save"
+    {
+        "#format"   "{1:s}"
+        "ru"        "{RED}[NSZ] {DEFAULT}Настройки сохранены в {1}"
+        "en"        "{RED}[NSZ] {DEFAULT}The settings are saved in {1}"
+    }
+
+    "Menu Title"
+    {
+        "ru"        "NoShootZones"
+        "en"        "NoShootZones"
+    }
+
+    "Menu Create"
+    {
+        "ru"        "Создать зону (прицел)"
+        "en"        "Create a zone (sight)"
+    }
+
+    "Menu Delete"
+    {
+        "ru"        "Удалить зону (прицел)"
+        "en"        "Delete a zone (sight)"
+    }
+
+    "Menu Save"
+    {
+        "ru"        "Сохранить все зоны"
+        "en"        "Save all zones"
+    }
+}
